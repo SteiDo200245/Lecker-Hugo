@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* This class makes content stand out prominently */
+.prominent {
+    background-color: #ffeb3b; /* Bright yellow background for visibility */
+    color: #000; /* Black text for contrast */
+    font-size: 2em; /* Large font size to catch attention */
+    font-weight: bold; /* Bold text to emphasize */
+    padding: 20px; /* Padding around content */
+    border: 3px solid #f44336; /* Red border for emphasis */
+    text-align: center; /* Center the text */
+    margin: 20px auto; /* Add some space around the element */
+    width: 80%; /* Control the width of the prominent content */
+    border-radius: 10px; /* Rounded corners for a smooth look */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}

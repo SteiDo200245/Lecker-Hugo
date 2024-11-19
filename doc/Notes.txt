@@ -1,0 +1,6 @@
+docker pull klakegg/hugo
+docker run -p 1313:1313 -v C:/_Docker/Hugo:/src klakegg/hugo server --bind 0.0.0.0
+
+https://gohugo.io/getting-started/quick-start/
+hugo server
+hugo serve

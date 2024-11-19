@@ -1,0 +1,7 @@
+<div>
+    {{ with .Site.GetPage "/sidebar" }}
+        {{ .Content }}
+    {{ else }}
+        <p>Sidebar content not found.</p>
+    {{ end }}
+</div>

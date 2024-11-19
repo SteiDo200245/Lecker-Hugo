@@ -1,0 +1,70 @@
+baseURL: https://example.org/
+languageCode: en
+title: Double Steininger CMS
+theme: PaperMod
+
+outputs:
+  home:
+    - "HTML"
+    - "RSS"
+    # - "JSON" #would be required for search i assume - but the fuse js is not working accordingly
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 20
+        - identifier: shop
+          name: Shop
+          url: /shop/
+          weight: 30
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 40
+        - identifier: about
+          name: About Us
+          url: /about/
+          weight: 50
+        - identifier: actualSite
+          name: Actual Site 👀
+          url: https://blauweiss-linz.at
+          weight: 60
+  de:
+    languageName: "Deutsch"
+    weight: 2
+    menu:
+      main:
+        - identifier: home
+          name: Home
+          url: /
+          weight: 10
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 20
+        - identifier: shop
+          name: Shop
+          url: /shop/
+          weight: 30
+        - identifier: blog
+          name: Blog
+          url: /blog/
+          weight: 40
+        - identifier: about
+          name: About Us
+          url: /about/
+          weight: 50
+        - identifier: actualSite
+          name: Actual Site 👀
+          url: https://blauweiss-linz.at
+          weight: 60
