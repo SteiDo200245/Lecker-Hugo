@@ -7,7 +7,7 @@ draft: false
 
 ✨ Entdecken Sie unsere Kollektion an **hochwertigen Produkten** und bleiben Sie mit den neuesten Nachrichten auf dem Laufenden. Wir haben für jeden etwas dabei! Nutzen Sie die Navigation unten, um die verschiedenen Bereiche unserer Website zu erkunden und genau das zu finden, was Sie suchen. 🎉  
 
-## 🧭 Schnelle Navigation  
+## 🧭 Schnelle Navigation
 
 ### 🛒 [Shop](/shop/)  
 Durchstöbern Sie unsere Produktkategorien:  

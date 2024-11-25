@@ -4,7 +4,7 @@ date: 2024-11-18
 draft: false
 ---
 
-Welcome to **Our Shop**, where passion meets purpose! 💖
+Welcome to **Our Shop V1**, where passion meets purpose! 💖
 
 Our mission is simple: to provide **high-quality products** that make your life better, while delivering an exceptional shopping experience every time you visit. Whether you're looking for the latest trends or timeless classics, we've got you covered. 
 

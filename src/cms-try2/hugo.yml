@@ -44,7 +44,7 @@ languages:
           weight: 40
         - identifier: about
           name: About Us
-          url: /about/
+          url: /about/v2/
           weight: 50
         - identifier: actualSite
           name: Actual Site 👀
@@ -73,7 +73,7 @@ languages:
           weight: 40
         - identifier: about
           name: About Us
-          url: /about/
+          url: /about/v2/
           weight: 50
         - identifier: actualSite
           name: Actual Site 👀

@@ -9,11 +9,11 @@
     <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/shop/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Special Offers</title>
-      <link>http://localhost:1313/shop/special-offers/</link>
+      <title>Accessories</title>
+      <link>http://localhost:1313/shop/accessories/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/shop/special-offers/</guid>
-      <description>&lt;h1 id=&#34;this-is-the-special-offers-shop&#34;&gt;This is the Special Offers Shop&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/shop/accessories/</guid>
+      <description>&lt;h1 id=&#34;this-is-the-accessories-shop&#34;&gt;This is the Accessories Shop&lt;/h1&gt;</description>
     </item>
   </channel>
 </rss>
