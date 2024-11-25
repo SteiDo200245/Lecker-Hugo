@@ -28,6 +28,8 @@ Catch up on the latest **promotions**, **product updates**, and more exciting ne
 ### 📖 [About Us](/about/)
 Learn more about **our story**, the values that drive us, and meet the team behind the shop.
 
+{{< youtube yiX6fnPnKmU >}}
+
 ## ✌ Further More
 
 > ##### ✉️ [Contact Us](/contact/)

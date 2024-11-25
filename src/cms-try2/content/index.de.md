@@ -28,6 +28,8 @@ Bleiben Sie auf dem Laufenden über die neuesten **Aktionen**, **Produktneuigkei
 ### 📖 [Über uns](/about/)  
 Erfahren Sie mehr über **unsere Geschichte**, die Werte, die uns antreiben, und lernen Sie das Team hinter dem Shop kennen.  
 
+{{< youtube yiX6fnPnKmU >}}
+
 ## ✌ Und mehr  
 
 > ##### ✉️ [Kontaktieren Sie uns](/contact/)  
