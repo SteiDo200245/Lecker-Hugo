@@ -22,12 +22,20 @@ Alles begann mit einem Traum – dem Traum, einen Laden zu eröffnen, der nicht 
 
 Hinter jedem großartigen Shop steht ein leidenschaftliches Team! Hier sind die Gesichter hinter **Unserem Shop**:
 
-- **[Gründer/in Name]** – Gründer/in & Geschäftsführer/in 🧑‍💼
-  - Mit einem Hintergrund in [Branche] hat [Name] diese Reise gestartet, um hochwertige Produkte und ein herausragendes Kundenerlebnis zu schaffen.
-- **[Teammitglied 1]** – Leiter/in Produktentwicklung 🛠️
-  - Immer auf der Suche nach dem nächsten großen Trend sorgt [Name] dafür, dass wir Ihnen die besten und innovativsten Produkte anbieten.
-- **[Teammitglied 2]** – Kundenservice-Spezialist/in 📞
-  - Brauchen Sie Hilfe? [Name] steht Ihnen mit Rat und Tat zur Seite und sorgt dafür, dass Ihr Einkaufserlebnis reibungslos und angenehm verläuft.
+- **Schellman** – Gründer & CEO 🧑‍💼
+  - Mit einem Hintergrund im Fußball startete Schellman diese Reise, um hochwertige Produkte und ein herausragendes Kundenerlebnis zum Leben zu erwecken.
+
+{{< figure src="/img/schellmann.png" alt="ComfortPro Sneakers" width="200" >}}
+
+- **Matthias Steininger** – Leiter der Produktentwicklung 🛠️
+  - Immer auf der Suche nach dem nächsten großen Ding stellt Matthias sicher, dass wir die besten und innovativsten Produkte anbieten.
+
+{{< figure src="/img/matthias.png" alt="ComfortPro Sneakers" width="200" >}}
+
+- **Dominik Steininger** – Kundenservice-Spezialist 📞
+  - Brauchen Sie Hilfe? Dominik ist hier, um all Ihre Fragen zu beantworten und Ihr Einkaufserlebnis reibungslos und angenehm zu gestalten.
+
+{{< figure src="/img/dominik.png" alt="ComfortPro Sneakers" width="200" >}}
 
 ------
 
